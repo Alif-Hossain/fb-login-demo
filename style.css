@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+}
+.container{
+    width: 600px;
+    height: 400px;
+    background-color: #ECEFF5;
+    margin:0px auto;
+}
+
+.header{
+    width: 100%;
+    height: 35px;
+    background-color:#3B5998;
+    display: inline-block;
+}
+
+.logo{
+    width: 105px;
+    height: 35px;
+    display: inline-block;
+}
+
+.button-r{
+    width: 114px;
+    height: 28px;
+    background-color: #69A74E;
+    display: inline-block;
+    float: right;
+    margin-top: 3px;
+    margin-right: 3px;
+    border-radius: 2px;
+    color: white;
+    border-style: hidden;
+    
+}
+
+.button-{
+    width: 114px;
+    height: 28px;
+    background-color: #69A74E;
+    display: inline-block;
+    float: right;
+    border-radius: 2px;
+    color: white;
+    border-style: hidden; 
+}
+
+.email{
+    margin-top: 5px;
+
+}
+
+.pass{
+    margin-top: 7px;
+
+}
+
+h3{
+    color: #8D949E;
+    margin-left: 7px;
+    font-family:arial;
+    font-weight: 700;
+    font-size: 2.7vh;
+}
+
+.h3-{
+
+    padding: 0;
+}
+input{
+    height: 40px;
+    width: 97%;
+    margin-left: opx;
+    margin-right: 50px;
+}
+
+/*
+.login{
+    width: 97%;
+    height: 50px;
+    background-color:#3B5998;
+    display: inline-block;
+    border-radius: 2px;
+    border-style: hidden;
+    margin: 6px;
+}
+
+
+
+.logtxt{
+    width: 114px;
+    height: 28px;
+    color: white;
+    background-color:#3B5998;
+    border-style: hidden; 
+    text-align: center;
+    margin: 15px auto;  /* margin: 15px 270px; */
+}
+
+*/
+
+.login{
+
+    margin: 0px auto;
+    
+}
+
+
+.login-{
+    width: 96%;
+    height: 45px;
+    min-width: 96%;
+    background-color:#3B5998;
+    border-radius: 2px;
+    color: white;
+    border-style: hidden;
+    margin-top: 10px;
+    margin-left: 7px;
+     
+}
+
+
+
+.hr1{
+    width: 100%;
+    display: flex;
+
+}
+
+.hr2{
+    width: 42.5%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.or{
+    width: 7%;
+    text-align: center;
+}
+
+.hr3{
+    width: 43%;
+    margin-top: 10px;
+    margin-right: 20px;
+    
+}
+
+
+.new-account{
+    width: 170px;
+    margin: 0px auto;
+}
+
+
+.account{
+    width: 170px;
+    height: 45px;
+    min-width: 170px;
+    background-color:#42B72A;
+    border-radius: 2px;
+    color: white;
+    border-style: hidden;
+    margin-top:7px;
+     
+}
